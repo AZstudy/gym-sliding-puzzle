@@ -1,0 +1,5 @@
+gym_sliding_puzzle.egg-info/PKG-INFO
+gym_sliding_puzzle.egg-info/SOURCES.txt
+gym_sliding_puzzle.egg-info/dependency_links.txt
+gym_sliding_puzzle.egg-info/requires.txt
+gym_sliding_puzzle.egg-info/top_level.txt

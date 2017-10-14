@@ -1,0 +1,1 @@
+from gym_sliding_puzzle.envs.sliding_puzzle_env import SlidingPuzzleEnv
